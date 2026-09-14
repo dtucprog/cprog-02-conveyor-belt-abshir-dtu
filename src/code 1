@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-int MOTOR_CAPACITY = 12;
-
 int main() {
-    int motorCount, totalPackageWeight;
-
+    int motorCount;
+    int totalPackageWeight;
     int MOTOR_CAPACITY = 12;
     int totalCapacity;
 
@@ -23,4 +21,4 @@ int main() {
     }
 
     return 0;
-}
+
